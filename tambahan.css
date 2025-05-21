@@ -50,15 +50,15 @@ body {
 }
 
 .slide-1{
-background: linear-gradient(rgba(0, 0, 0, 0.5 ), rgba(0, 0, 0, 0.5 )), url(../website/gambar/wp7487037.webp);
+background: linear-gradient(rgba(0, 0, 0, 0.5 ), rgba(0, 0, 0, 0.5 )), url(/gambar/wp7487037.webp);
 object-fit: cover;
 }
 .slide-2{
-background: linear-gradient(rgba(0, 0, 0, 0.5 ), rgba(0, 0, 0, 0.5 )), url(../website/gambar/wp7487064.webp);
+background: linear-gradient(rgba(0, 0, 0, 0.5 ), rgba(0, 0, 0, 0.5 )), url(/gambar/wp7487064.webp);
 object-fit: cover;
 }
 .slide-3{
-background: linear-gradient(rgba(0, 0, 0, 0.5 ), rgba(0, 0, 0, 0.5 )), url(../website/gambar/wp7487243.webp);
+background: linear-gradient(rgba(0, 0, 0, 0.5 ), rgba(0, 0, 0, 0.5 )), url(/gambar/wp7487243.webp);
 object-fit: cover;
 }
 
